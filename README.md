@@ -1,4 +1,4 @@
-### Ciao, sono [AlinaBol]
+### Hi, I'm [AlinaBol]
 
 Suono :musical_keyboard::notes:
 Adoro :rabbit::tropical_fish::shell:
@@ -15,3 +15,5 @@ Adoro :rabbit::tropical_fish::shell:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+💻 My languages
