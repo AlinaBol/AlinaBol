@@ -1,7 +1,7 @@
 ### Hi, I'm [AlinaBol]
 
-Suono :musical_keyboard::notes:
-Adoro :rabbit::tropical_fish::shell:
+Like :musical_keyboard::notes:
+Adore :rabbit::tropical_fish::shell:
 & coding :computer:
 
 ---
