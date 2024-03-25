@@ -1,8 +1,14 @@
 ### Hi, I'm [AlinaBol]
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-I like :musical_keyboard::notes:
-, adore :rabbit::tropical_fish::shell:
-& coding :computer:
+[//]: # (I like :musical_keyboard::notes:)
+
+[//]: # (, adore :rabbit::tropical_fish::shell:)
+
+[//]: # (& coding :computer:)
 
 ---
 <div id="badges">
@@ -11,10 +17,6 @@ I like :musical_keyboard::notes:
   </a>
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 💻 My languages:
 <div>
